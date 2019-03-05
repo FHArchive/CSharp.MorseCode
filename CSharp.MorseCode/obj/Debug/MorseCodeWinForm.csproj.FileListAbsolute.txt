@@ -1,0 +1,9 @@
+h:\visual studio 2017\Projects\MorseCodeWinForm\MorseCodeWinForm\bin\Debug\MorseCodeWinForm.exe.config
+h:\visual studio 2017\Projects\MorseCodeWinForm\MorseCodeWinForm\bin\Debug\MorseCodeWinForm.exe
+h:\visual studio 2017\Projects\MorseCodeWinForm\MorseCodeWinForm\bin\Debug\MorseCodeWinForm.pdb
+h:\visual studio 2017\Projects\MorseCodeWinForm\MorseCodeWinForm\obj\Debug\MorseCodeWinForm.csprojResolveAssemblyReference.cache
+h:\visual studio 2017\Projects\MorseCodeWinForm\MorseCodeWinForm\obj\Debug\MorseCodeWinForm.Properties.Resources.resources
+h:\visual studio 2017\Projects\MorseCodeWinForm\MorseCodeWinForm\obj\Debug\MorseCodeWinForm.csproj.GenerateResource.Cache
+h:\visual studio 2017\Projects\MorseCodeWinForm\MorseCodeWinForm\obj\Debug\MorseCodeWinForm.exe
+h:\visual studio 2017\Projects\MorseCodeWinForm\MorseCodeWinForm\obj\Debug\MorseCodeWinForm.pdb
+h:\visual studio 2017\Projects\MorseCodeWinForm\MorseCodeWinForm\obj\Debug\MorseCodeWinForm.MorseCode.resources
